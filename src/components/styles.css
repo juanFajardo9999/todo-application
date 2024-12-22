@@ -1,0 +1,10 @@
+.button-container {
+    justify-content: flex-start;
+  }
+  
+  @media (max-width: 600px) {
+    .button-container {
+      justify-content: center;
+      flex-direction: column;
+    }
+  }
