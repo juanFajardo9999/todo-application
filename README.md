@@ -59,19 +59,24 @@ This project is a scalable, maintainable, and enterprise-ready Todo application 
 ```bash
 git clone https://github.com/juanFajardo9999/todo-application.git
 cd react-todo-app
+```
 
 ### 2.	Install dependencies
 ```bash
 npm install
+```
 
 ### 3.	Start json-server
 ```bash
 npx json-server --watch db.json --port 3001
+```
 
 ### 4.	Run the application
 ```bash
 npm start
+```
 
 ### 5.	Test the application
 ```bash
 npm test
+```
